@@ -1,0 +1,76 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "fullName": "om",
+      "contactPreference": "phoneNumber",
+      "phoneNumber": "9989875609",
+      "skills": [
+        {
+          "skillName": "c#",
+          "experienceInYears": "4",
+          "proficiency": "advanced"
+        },
+        {
+          "skillName": "java",
+          "experienceInYears": "2",
+          "proficiency": "beginner"
+        }
+      ],
+      "phone": "9989875609",
+      "email": "om755@gmail.com"
+    },
+    {
+      "id": 2,
+      "fullName": "rahul",
+      "contactPreference": "phone",
+      "phoneNumber": "9989874569",
+      "skills": [
+        {
+          "skillName": "java",
+          "experienceInYears": "4",
+          "proficiency": "intermediate"
+        }
+      ],
+      "email": "rahul72575@gmail.com"
+    },
+    {
+      "id": 3,
+      "fullName": "shikha",
+      "contactPreference": "email",
+      "phoneNumber": "9812694578",
+      "skills": [
+        {
+          "skillName": "c#",
+          "experienceInYears": "6",
+          "proficiency": "advanced"
+        },
+        {
+          "skillName": "dotnet",
+          "experienceInYears": "2.5",
+          "proficiency": "intermediate"
+        },
+        {
+          "skillName": "angularJS",
+          "experienceInYears": "4",
+          "proficiency": "intermediate"
+        }
+      ],
+      "email": "shikha734@gmail.com"
+    },
+    {
+      "id": 4,
+      "fullName": "pranjal",
+      "contactPreference": "email",
+      "email": "pranjal0734@gmail.com",
+      "phoneNumber": "8269506640",
+      "skills": [
+        {
+          "skillName": "angularJS,angular 6",
+          "experienceInYears": "3.5",
+          "proficiency": "intermediate"
+        }
+      ]
+    }
+  ]
+}

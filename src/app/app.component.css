@@ -1,0 +1,10 @@
+nav a:visited,a:link{
+    color: thistle;
+}
+nav a:hover{
+    color: tomato;
+    background-color: teal;
+}
+nav a.active {
+    color: turquoise;
+}
